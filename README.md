@@ -1,6 +1,6 @@
 # TREAT COVID-19
 
-Dies ist ein begleitendes Repositorium zur Prüfungsleistung Hausarbeit im Modul "Forschungsdatenmanagement" im Rahmen des Masters "Biomedical Informatics und Data Science".
+Dies ist ein begleitendes öffentliches Repositorium zur Analyse eines synthetischen COVID-19 Patientendatensatzes als Prüfungsleistung der Hausarbeit im Modul "Forschungsdatenmanagement" im Rahmen des Masters "Biomedical Informatics und Data Science".
 
 Es erfolgt eine umfassende Beschreibung eines Datensatzes, der mittels des Synthea<sup>TM</sup> Patient Generator erzeugt worden ist.
 
@@ -16,4 +16,6 @@ https://dataverse.harvard.edu/privateurl.xhtml?token=4860ce21-9a3d-477a-8350-9da
 Hölsken, Oliver, 2021, "TREAT_COVID-19_dataset", https://doi.org/10.7910/DVN/6IJZDG, Harvard Dataverse, DRAFT VERSION, UNF:6:n/CTZpdNoOhpOAe7KSFA1Q== [fileUNF] 
 
 ## License
-CC01 Share-alike
+CC01 
+
+
