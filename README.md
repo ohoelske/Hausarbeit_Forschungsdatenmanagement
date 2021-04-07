@@ -14,3 +14,6 @@ Eine Draft-Version des Datensatzes befindet sich im Harvard Dataverse:
 https://dataverse.harvard.edu/privateurl.xhtml?token=4860ce21-9a3d-477a-8350-9daec348678f
 
 Hölsken, Oliver, 2021, "TREAT_COVID-19_dataset", https://doi.org/10.7910/DVN/6IJZDG, Harvard Dataverse, DRAFT VERSION, UNF:6:n/CTZpdNoOhpOAe7KSFA1Q== [fileUNF] 
+
+## License
+CC04 Share-alike
